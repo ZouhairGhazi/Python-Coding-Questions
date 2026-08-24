@@ -3,6 +3,7 @@
 Source: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 ## Problem
+
 You are given an array `prices` where `prices[i]` represents the price of a stock on day `i`.
 
 Your goal is to maximize profit by choosing one day to buy and a later day to sell.
